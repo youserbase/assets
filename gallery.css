@@ -1,0 +1,87 @@
+body {
+	margin: 33px 0 0 0;
+	padding: 0;
+}
+#toolbar {
+	background-color: #666;
+	border-bottom: 1px solid black;
+	color: #000;
+	height: 32px;
+	left: 0;
+	overflow: hidden;
+	position: fixed;
+	right: 0;
+	top: 0;
+}
+#toolbar .info {
+	float: right;
+	font-family: monospace;
+	padding: 2px;
+}
+#toolbar ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+#toolbar ul li {
+	border-right: 1px solid black;
+	display: inline-block;
+	height: 100%;
+	margin: 0;
+	padding: 5px 10px;
+}
+#toolbar ul li a {
+	text-decoration: none;
+}
+#margin-form {
+	margin-top: 10px;
+}
+#margin-form input, input.small {
+	text-align: center;
+	width: 40px;
+}
+#images {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+#images li {
+	border: 1px solid #888;
+	color: #000;
+	display: inline-block;
+	font: 11px monospace;
+	margin: 4px;
+	min-width: 100px;
+	padding: 2px;
+	text-align: center;
+	vertical-align: middle;
+}
+#images li:hover {
+	background-color: #888;
+	border: 2px solid #444;
+	color: #fff;
+	cursor: help;
+	margin: 3px;
+}
+#images li.checked {
+	background-color: #cfa;
+	color: #000;
+}
+#images li:hover.checked {
+	background-color: #9d94;
+	border-color: #8b0;
+}
+#images li img.thumbnail {
+	max-height: 80px;
+}
+#images.hide-names span {
+	display: none;
+}
+#images.hide-names li {
+	min-width: 0;
+	border: 0;
+}
+#images.hide-name  li:hover {
+	background-color: inherit;
+	border: 0;
+}

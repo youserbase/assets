@@ -1,0 +1,27 @@
+.nickpage-sprite {
+	background-image: url(/*[[ASSETS]]*/sprites/nickpage.png);
+	background-position: 272px 48px;
+	background-repeat: no-repeat;
+}
+.nickpage-sprite.front {
+	padding-left: 16px;
+}
+.nickpage-sprite.icon {
+	height: 48px;
+	width: 272px;
+}
+.nickpage-sprite.email-edit {
+	background-position: 0 -0px;
+}
+.nickpage-sprite.group {
+	background-position: 0 -48px;
+}
+.nickpage-sprite.user-add {
+	background-position: 0 -96px;
+}
+.nickpage-sprite.user-delete {
+	background-position: 0 -144px;
+}
+.nickpage-sprite.user-go {
+	background-position: 0 -192px;
+}

@@ -1,0 +1,27 @@
+.badges-sprite {
+	background-image: url(/*[[ASSETS]]*/sprites/badges.png);
+	background-position: 256px 32px;
+	background-repeat: no-repeat;
+}
+.badges-sprite.front {
+	padding-left: 16px;
+}
+.badges-sprite.icon {
+	display: inline-block;
+	*dislay: inline;
+	height: 16px;
+	width: 16px;
+	zoom: 1;
+}
+.badges-sprite.digg {
+	background-position: 0 -0px;
+}
+.badges-sprite.facebook {
+	background-position: 0 -32px;
+}
+.badges-sprite.twitter {
+	background-position: 0 -64px;
+}
+.badges-sprite.wordpress {
+	background-position: 0 -96px;
+}

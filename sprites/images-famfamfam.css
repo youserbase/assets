@@ -1,0 +1,39 @@
+.images-famfamfam-sprite {
+	background-image: url(/*[[ASSETS]]*/sprites/images-famfamfam.png);
+	background-position: 128px 32px;
+	background-repeat: no-repeat;
+}
+.images-famfamfam-sprite.front {
+	padding-left: 16px;
+}
+.images-famfamfam-sprite.icon {
+	display: inline-block;
+	*dislay: inline;
+	height: 16px;
+	width: 16px;
+	zoom: 1;
+}
+.images-famfamfam-sprite.arrow-refresh-small {
+	background-position: 0 -0px;
+}
+.images-famfamfam-sprite.cog {
+	background-position: 0 -32px;
+}
+.images-famfamfam-sprite.coins {
+	background-position: 0 -64px;
+}
+.images-famfamfam-sprite.comment-edit {
+	background-position: 0 -96px;
+}
+.images-famfamfam-sprite.email {
+	background-position: 0 -128px;
+}
+.images-famfamfam-sprite.plugin {
+	background-position: 0 -160px;
+}
+.images-famfamfam-sprite.status-offline {
+	background-position: 0 -192px;
+}
+.images-famfamfam-sprite.tab-edit {
+	background-position: 0 -224px;
+}

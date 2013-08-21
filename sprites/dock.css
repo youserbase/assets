@@ -1,0 +1,39 @@
+.dock-sprite {
+	background-image: url(/*[[ASSETS]]*/sprites/dock.png);
+	background-position: 128px 32px;
+	background-repeat: no-repeat;
+}
+.dock-sprite.front {
+	padding-left: 16px;
+}
+.dock-sprite.icon {
+	display: inline-block;
+	*dislay: inline;
+	height: 16px;
+	width: 16px;
+	zoom: 1;
+}
+.dock-sprite.arrow-refresh-small {
+	background-position: 0 -0px;
+}
+.dock-sprite.cog {
+	background-position: 0 -32px;
+}
+.dock-sprite.coins {
+	background-position: 0 -64px;
+}
+.dock-sprite.comment-edit {
+	background-position: 0 -96px;
+}
+.dock-sprite.email {
+	background-position: 0 -128px;
+}
+.dock-sprite.plugin {
+	background-position: 0 -160px;
+}
+.dock-sprite.status-offline {
+	background-position: 0 -192px;
+}
+.dock-sprite.tab-edit {
+	background-position: 0 -224px;
+}

@@ -1,0 +1,55 @@
+html, body {
+	margin: 0;
+}
+#header {
+	background-color: #eee;
+	border-bottom: 1px solid #000;
+	padding: 5px;
+	position: relative;
+}
+#header p {
+	display: inline-block;
+	margin: 0;
+	padding: 0;
+	text-align: center;
+	width: 33%;
+}
+#header span {
+	font-weight: bold;
+}
+#options {
+	background-color: #444;
+	border-left: 1px solid #000;
+	border-bottom: 1px solid #000;
+	padding: 5px 20px;
+	position: absolute;
+	right: 0;
+	top: 0;
+}
+#progress {
+	background-color: #008;
+	border-bottom: 1px solid #000;
+}
+#percent {
+	background-color: #0f0;
+	border-right: 1px solid black;
+	margin-left: -1px;
+	overflow: hidden;
+	text-align: right;
+}
+#options a {
+	color: white;
+}
+#log td {
+	font-family: monospace;
+}
+#log thead td {
+	border-bottom: 1px dashed #ccc;
+}
+#log .a1 td {
+	background-color: #e8e8e8;
+}
+#log .unchanged td {
+}
+#log .smushed td {
+}

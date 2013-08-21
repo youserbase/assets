@@ -1,0 +1,114 @@
+.flags-sprite {
+	background-image: url(/*[[ASSETS]]*/sprites/flags.png);
+	background-position: 256px 27px;
+	background-repeat: no-repeat;
+}
+.flags-sprite.front {
+	padding-left: 16px;
+}
+.flags-sprite.icon {
+	display: inline-block;
+	*dislay: inline;
+	height: 11px;
+	width: 16px;
+	zoom: 1;
+}
+.flags-sprite.ba {
+	background-position: 0 -0px;
+}
+.flags-sprite.bg {
+	background-position: 0 -27px;
+}
+.flags-sprite.by {
+	background-position: 0 -54px;
+}
+.flags-sprite.cz {
+	background-position: 0 -81px;
+}
+.flags-sprite.de {
+	background-position: 0 -108px;
+}
+.flags-sprite.dk {
+	background-position: 0 -135px;
+}
+.flags-sprite.ee {
+	background-position: 0 -162px;
+}
+.flags-sprite.el {
+	background-position: 0 -189px;
+}
+.flags-sprite.es {
+	background-position: 0 -216px;
+}
+.flags-sprite.fi {
+	background-position: 0 -243px;
+}
+.flags-sprite.fr {
+	background-position: 0 -270px;
+}
+.flags-sprite.gf {
+	background-position: 0 -297px;
+}
+.flags-sprite.gr {
+	background-position: 0 -324px;
+}
+.flags-sprite.hr {
+	background-position: 0 -351px;
+}
+.flags-sprite.hu {
+	background-position: 0 -378px;
+}
+.flags-sprite.it {
+	background-position: 0 -405px;
+}
+.flags-sprite.la {
+	background-position: 0 -432px;
+}
+.flags-sprite.lt {
+	background-position: 0 -459px;
+}
+.flags-sprite.nl {
+	background-position: 0 -486px;
+}
+.flags-sprite.no {
+	background-position: 0 -513px;
+}
+.flags-sprite.pl {
+	background-position: 0 -540px;
+}
+.flags-sprite.pt {
+	background-position: 0 -567px;
+}
+.flags-sprite.ro {
+	background-position: 0 -594px;
+}
+.flags-sprite.rs {
+	background-position: 0 -621px;
+}
+.flags-sprite.ru {
+	background-position: 0 -648px;
+}
+.flags-sprite.sa {
+	background-position: 0 -675px;
+}
+.flags-sprite.se {
+	background-position: 0 -702px;
+}
+.flags-sprite.si {
+	background-position: 0 -729px;
+}
+.flags-sprite.sk {
+	background-position: 0 -756px;
+}
+.flags-sprite.tr {
+	background-position: 0 -783px;
+}
+.flags-sprite.ua {
+	background-position: 0 -810px;
+}
+.flags-sprite.uk {
+	background-position: 0 -837px;
+}
+.flags-sprite.us {
+	background-position: 0 -864px;
+}
